@@ -46,4 +46,4 @@ function get_current_age (days) {
     return (years * 365)
 }
 
-console.log(get_current_age(days))
+console.log(get_current_age(Date))
